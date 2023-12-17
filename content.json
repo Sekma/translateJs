@@ -1,0 +1,17 @@
+{
+    "eng":{
+        "title" : "Hello",
+        "smallTitle": "Welcome",
+        "text": "I'm Hedi, i'm web developer."
+    },
+    "fr":{
+        "title" : "Bonjour",
+        "smallTitle": "Bienvenue",
+        "text": "Je suis Hedi, je suis developpeur web."
+    },
+    "ar":{
+        "title" : "أهلا وسهلا",
+        "smallTitle": "مرحبا",
+        "text": ".أنا هادي، أنا مطور ويب"
+    }
+}
