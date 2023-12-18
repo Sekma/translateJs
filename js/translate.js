@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 async function loadTranslations() {
-    const response = await fetch('../translations.json');
+    const response = await fetch('./translations.json');
     translations = await response.json();
 }
 
