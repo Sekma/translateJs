@@ -1,4 +1,4 @@
-let translations = {};
+let content = {};
 
 document.addEventListener('DOMContentLoaded', async () => {
     await loadTranslations();
