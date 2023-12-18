@@ -2,16 +2,19 @@
     "eng":{
         "title" : "Hello",
         "smallTitle": "Welcome",
-        "text": "I'm Hedi, i'm web developer."
+        "text": "I'm Hedi, i'm web developer.",
+        "text2": "It's a small application for translating a web page using javascript."
     },
     "fr":{
         "title" : "Bonjour",
         "smallTitle": "Bienvenue",
-        "text": "Je suis Hedi, je suis developpeur web."
+        "text": "Je suis Hedi, je suis developpeur web.",
+        "text2":"C'est une petite application pour traduire une page web en utilisant javascript."
     },
     "ar":{
         "title" : "أهلا وسهلا",
         "smallTitle": "مرحبا",
-        "text": ".أنا هادي، أنا مطور ويب"
+        "text": ".أنا هادي، أنا مطور ويب",
+        "text2": ".هذا تطبيق صغير لترجمة صفحة ويب باستخدام جافا سكريبت"
     }
 }
