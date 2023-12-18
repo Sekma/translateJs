@@ -1,4 +1,4 @@
-let content = {};
+let translations = {};
 
 document.addEventListener('DOMContentLoaded', async () => {
     await loadTranslations();
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 async function loadTranslations() {
-    const response = await fetch('../content.json');
+    const response = await fetch('../translations.json');
     translations = await response.json();
 }
 
